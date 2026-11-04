@@ -1,16 +1,16 @@
-# 🛡️ Análise de Ameaças Digitais e Estratégias de Defesa
+#  Análise de Ameaças Digitais e Estratégias de Defesa
 
 Repositório técnico desenvolvido para o desafio de cibersegurança da **DIO (Digital Innovation One)**, com foco no estudo conceitual do funcionamento de ameaças digitais (Ransomware e Spyware/Keylogger) e na estruturação de defesas em profundidade.
 
 ---
 
-## 📌 Visão Geral do Projeto
+##  Visão Geral do Projeto
 
 O objetivo deste projeto é documentar e analisar os mecanismos de ação de softwares maliciosos comumente observados no cenário de segurança da informação, compreendendo como essas ameaças operam para projetar contramedidas eficazes de prevenção, detecção e resposta a incidentes.
 
 ---
 
-## 🔬 Análise de Ameaças
+##  Análise de Ameaças
 
 ### 1. Ransomware (Criptoameaças)
 * **Mecanismo de Ação:** Utiliza algoritmos de criptografia simétrica (ex: AES) para cifrar dados em alta velocidade, combinados com criptografia assimétrica (ex: RSA) para proteger a chave simétrica sem expor o segredo localmente.
@@ -24,7 +24,7 @@ O objetivo deste projeto é documentar e analisar os mecanismos de ação de sof
 
 ---
 
-## 🛡️ Medidas de Prevenção, Detecção e Mitigação
+##  Medidas de Prevenção, Detecção e Mitigação
 
 A segurança contra ameaças avançadas exige uma abordagem de **Defesa em Profundidade (Defense-in-Depth)**:
 
