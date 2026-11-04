@@ -38,5 +38,5 @@ A segurança contra ameaças avançadas exige uma abordagem de **Defesa em Profu
 
 ---
 
-## ⚖️ Declaração Ética
+##  Declaração Ética
 Todo o conteúdo deste projeto foi desenvolvido estritamente para propósitos acadêmicos e educacionais, visando a capacitação em defesa cibernética e mitigação de vulnerabilidades.
